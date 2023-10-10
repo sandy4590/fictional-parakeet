@@ -1,4 +1,4 @@
-package intro;
+package introduction;
 
 public class MyClass {
     private int instanceVar; 
